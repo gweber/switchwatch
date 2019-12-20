@@ -9,5 +9,5 @@ Uptime can only be guessed if any port is having a higher tick count than the up
 
 Script has a database to prevent simultaneous requests to the same device within 5 minutes.  That's currently the only use of database.
 
-Cisco devices are speed even over WAN.
+Cisco devices are speedy even over WAN.
 Extreme Network devices are painful slow.
