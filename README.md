@@ -1,4 +1,4 @@
-# switchwatch
+# switchwαtch
 SNMP based real-time network monitoring
 
 The purpose of this script is to show real time interface statistics for SNMP enabled devices.
